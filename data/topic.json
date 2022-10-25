@@ -1,0 +1,78 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "title": " AutoCAD 2D & 3D for Drafting",
+        "author": {
+            "name": "Ifte Khar-ul-Rouf",
+            "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+        },
+        "image_url": "https://static.wixstatic.com/media/42ec32_20d4394742ed42f28fae07c21da47b7f~mv2.jpg",
+        "details": "Easily the most used program in the industry, Civil 3D is a civil engineering drafting software with a multitude of design, analysis and simulation tools for civil engineering design. If we’re talking high level, we use CAD to create sets of plans known as construction documentation. From polylines to feature lines, pipe networks to profiles, Civil 3D’s range of tools will allow you to create innovative and detailed designs. Want to try Civil 3D free for 30 days"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "02",
+        "title": "ETABS - Structural Software for Analysis and Design",
+        "author": {
+            "name": "Fajle Rabbi",
+            "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/271894130_1310933409317865_4611710372565811401_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE5m8AoHCNVnzm_6xurWnMU03Qp29yMQkPTdCnb3IxCQ5tEI0QBhgbNwM_UTqhaMkFrYdmO4i1jxIH2TgCY6haz&_nc_ohc=FwCL7K1myB0AX9hsQPF&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_5UI_Av37hJ-aEZgOgLQ3orf9leIYmqXtrzCQEHXzJEQ&oe=635CBB6A"
+        },
+        "image_url": "https://structuralbd.com/wp-content/uploads/2018/01/Etabs-Screenshot.png",
+        "details": " Building beautiful buildings that are strong enough to withstand any harsh conditions is not an easy task. We all know that today technology has achieved milestones in every field you can think of, right now and this is the very reason why engineering must also keep updated with the growing technology. This has led to several changes in how engineers work and perform. Not just the use of technology has made lives way easier but has also because of the development of some cool software, encouraged engineers to deliver more One such software that is going to be talked about in this blog is the ETABS Software. Have a look at the following sections that explain to you what is ETABS Software, why should it be used, what are the advantages of using it, and a brief description of its significance."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "category_id": "03",
+        "title": "OpenFlows StormCAD",
+        "author": {
+            "name": "Samir Molla",
+            "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t1.6435-9/68245998_2379064858998912_5512177816713560064_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGkNIM3VWsbKGusyHWGTUoDV4BdhixyRshXgF2GLHJGyALLiWBeqXZ_LOIVlnRjAcPCa602YZTtbYgmP0n00s2K&_nc_ohc=yaOe6G8m2UYAX9dqKcx&tn=Pz_QxA5wx8ZXbqGL&_nc_ht=scontent.fdac136-1.fna&oh=00_AT-JbOMJbTHT69TXnIKuVx2j50A_A1JpR562tvaI2CjEwg&oe=637BD600"
+        },
+        "image_url": "https://img.directindustry.com/pdf/repository_di/28711/bentley-stormwater-systems-modeling-solutions-haestad-18192_1mg.jpg",
+        "details": "In challenging times, budgets for infrastructure projects are tight. OpenFlows StormCAD helps you be as effective as possible on storm sewer development projects. The software provides roadway and site designers, stormwater master planners, and land developers like you with advanced tools to effectively deliver high quality design with minimized capital investments. OpenFlows StormCAD offers a complete approach to storm sewer design and analysis, from rainfall to outlet:  Effortless storm sewer design: Automatically design gravity piping and structures. Enter your design constraints for OpenFlows StormCAD to automatically determine cost-effective pipe sizes and invert elevations while minimizing pipe cover to avoid unnecessary pipe trench excavation.Streamlined model building and management: Leverage and import virtually any external data format to jump-start the model. Then, manipulate the model data effectively, with the ability to use a multitude of data entry and model editing capabilities that simplify and shorten the modeling process."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "category_id": "04",
+        "title": "Creating Concrete Buildings with Revit Structure",
+        "author": {
+            "name": "Atul Khan",
+            "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/271129904_600538154509603_3800258029308411669_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHBP06KWcEosfGa4c9wmrFB2UUDBlMnk3XZRQMGUyeTdSrkn4K4AMdcaY6d7tpK50WtnlKNvU7o4kmwdtXuu2_G&_nc_ohc=ekMD6WsEPrgAX_IzNka&_nc_ht=scontent.fdac136-1.fna&oh=00_AT-5PCo5CImdzazz1X3i0JE1s_q8Pk3xAY-tVk5l1Ad4JA&oe=635C4134"
+        },
+        "image_url": "https://www.caddmicrosystems.com/blog/wp-content/uploads/2022/04/02-2023-StructuralBlog.png",
+        "details": "Revit Structure is Autodesk's BIM software solution for Structural Engineering Firms and Structural Engineers. It includes a Feature-Rich tool set for driving efficient design processes in a BIM (Building Information Modelling) context, as well as when working with other Autodesk construction disciplines.Revit Structure helps to improve multi-discipline coordination of Structural Design Documentation, Minimize Errors, and enhance collaboration between Structural Engineers and extended Project Team Members, such as Architects, MEP Engineers, and Owners."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "category_id": "05",
+        "title": "MX Road - Road design and Analysisd",
+        "author": {
+            "name": "Anis M",
+            "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/280119796_1757619511252027_5125674776454319218_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFxlMdpt6HxwGOk7viCZfTHSv604Bp6REJK_rTgGnpEQpQV3-g8SiYG13uHwamYjux-iHh5Wvv47lQH7uXeE6fL&_nc_ohc=fQmc9Jm6yJwAX8nfxAr&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_jO1Ev35HaAaOpdznXl84GGwMJFfyH6GkuYaDPhPzqHA&oe=635D0286"
+        },
+        "image_url": "https://static.wixstatic.com/media/42ec32_f4a4e62a14cc42f9a385e68a7971d321~mv2.jpg/v1/fill/w_899,h_429,al_c,q_85,enc_auto/42ec32_f4a4e62a14cc42f9a385e68a7971d321~mv2.jpg",
+        "details": "MX Road is a string-based modelling tool meant for designing roads, highways, corridors, pavements, junctions, and related infrastructure. It enables users to create 2D sketches and 3D models and carry out analyses such as regression, road alignment, model, and surface analysis. It is an advanced software from Bentley that ensures design quality and accuracy. The primary users of MX Road include civil engineers, surveyors, and civil/infrastructure designers. The software enables engineers to follow design standards and specifications. It allows them to manage designs throughout all stages from conceptual to final stage and to help in post-contract activities."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "Surveying For Land",
+        "author": {
+            "name": "Kamal Saheb",
+            "published_date": "2022-08-24 23:15:00",
+            "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/312958301_3301736526821526_5690852559670452083_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG5Udi-SQJkJMQ6LpZXpm6AceAa7JxTASBx4BrsnFMBIFA3rY6c_W4Y4YQ0IqHlyYQYkS9LGsZyF6SGyY8Z--kZ&_nc_ohc=zLnD7o0v2yAAX9dS7ZD&_nc_ht=scontent.fdac136-1.fna&oh=00_AT89dbQP1jDsDE3pxewP_5arwT3IguAhBUTs6bv2vXH4Dg&oe=635D872C"
+        },
+        "image_url": "https://static.wixstatic.com/media/42ec32_468edb3d1b7445198b80203520429ffc~mv2.png/v1/fill/w_600,h_397,al_c,lg_1,q_85,enc_auto/42ec32_468edb3d1b7445198b80203520429ffc~mv2.png",
+        "details": "ArcGIS is a software used in Geographical Information System. It is helpful in creating Thematic Maps. ArcGIS for Desktop is the key to realizing the advantage of location awareness. Collect and manage data, create professional maps, perform traditional and advanced spatial analysis, and solve real problems. Make a difference and add tangible value for your organization, your community, and the world."
+    }
+]

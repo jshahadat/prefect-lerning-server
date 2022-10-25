@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "AutoCad 2D & 3D"
+    },
+    {
+        "id": "02",
+        "name": "ETABS"
+    },
+    {
+        "id": "03",
+        "name": "StormCAD"
+    },
+    {
+        "id": "04",
+        "name": "REVIT Structure"
+    },
+    {
+        "id": "05",
+        "name": "MX Road"
+    },
+    {
+        "id": "06",
+        "name": "ARCGIS for Surveying"
+    }
+]
