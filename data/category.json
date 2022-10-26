@@ -1,26 +1,26 @@
 [
     {
         "id": "01",
-        "name": "AutoCad 2D & 3D"
+        "name": "Plan View Design"
     },
     {
         "id": "02",
-        "name": "ETABS"
+        "name": "Building Load"
     },
     {
         "id": "03",
-        "name": "StormCAD"
+        "name": "Structure Design"
     },
     {
         "id": "04",
-        "name": "REVIT Structure"
+        "name": "Building Design"
     },
     {
         "id": "05",
-        "name": "MX Road"
+        "name": "Road Design"
     },
     {
         "id": "06",
-        "name": "ARCGIS for Surveying"
+        "name": "Land Development"
     }
 ]
