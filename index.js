@@ -34,7 +34,7 @@ app.get('/topic', (req, res) => {
     res.send(topic);
 });
 
-app.get('/topic/:id', (req, res) => {
+app.get('/premium/:id', (req, res) => {
     const id = req.params.id;
     const selectedTopic = topic.find(n => n._id === id);
     res.send(selectedTopic);
